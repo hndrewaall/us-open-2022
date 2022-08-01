@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Tournament externalIPAddress="104.37.12.82" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="298fc055-9c9f-4cdd-9780-e030970aa73a" runningMode="SAL" saveDT="20220801024634">
+<Tournament externalIPAddress="104.37.12.82" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="298fc055-9c9f-4cdd-9780-e030970aa73a" runningMode="SAL" saveDT="20220801025537">
     <Players>
         <Player agaExpirationDate="" agaId="25840" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Collin" grade="7K" name="Baker" participating="11111111111111111111" rank="7K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
         <Player agaExpirationDate="" agaId="18518" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jared" grade="2D" name="Nishikawa" participating="11111111111111111111" rank="2D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
@@ -244,7 +244,7 @@
     </Players>
     <Games/>
     <TournamentParameterSet>
-        <GeneralParameterSet bInternetGame="false" basicTime="0" beginDate="2022-08-01" canByoYomiTime="300" complementaryTimeSystem="SUDDENDEATH" director="Andrew Hall &amp; Neil Ritter" endDate="2022-08-06" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="4D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Estes Park, CO, USA" name="US Open 2022" nbMovesCanTime="15" numberOfBZHGroups="1" numberOfCategories="1" numberOfRounds="5" shortName="usopen2022" size="19" stdByoYomiTime="30"/>
+        <GeneralParameterSet bInternetGame="false" basicTime="0" beginDate="2022-08-01" canByoYomiTime="300" complementaryTimeSystem="SUDDENDEATH" director="Andrew Hall &amp; Neil Ritter" endDate="2022-08-06" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="20K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Estes Park, CO, USA" name="US Open 2022" nbMovesCanTime="15" numberOfBZHGroups="1" numberOfCategories="1" numberOfRounds="5" shortName="usopen2022" size="19" stdByoYomiTime="30"/>
         <HandicapParameterSet hdBase="RANK" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="9D"/>
         <PlacementParameterSet>
             <PlacementCriteria>
@@ -256,7 +256,7 @@
                 <PlacementCriterion name="NULL" number="6"/>
             </PlacementCriteria>
         </PlacementParameterSet>
-        <PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="MID" paiMaDUDDUpperMode="MID" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDRANDOM" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
+        <PairingParameterSet paiBaAvoidDuplGame="500000000000000" paiBaBalanceWB="1000000" paiBaDeterministic="true" paiBaRandom="0" paiMaAdditionalPlacementCritSystem1="Rating" paiMaAdditionalPlacementCritSystem2="NULL" paiMaAvoidMixingCategories="0" paiMaCompensateDUDD="true" paiMaDUDDLowerMode="TOP" paiMaDUDDUpperMode="BOT" paiMaDUDDWeight="100000000" paiMaLastRoundForSeedSystem1="2" paiMaMaximizeSeeding="5000000" paiMaMinimizeScoreDifference="100000000000" paiMaSeedSystem1="SPLITANDSLIP" paiMaSeedSystem2="SPLITANDSLIP" paiSeAvoidSameGeo="100000000000" paiSeBarThresholdActive="true" paiSeDefSecCrit="100000000000" paiSeMinimizeHandicap="0" paiSeNbWinsThresholdActive="false" paiSePreferMMSDiffRatherThanSameClub="3" paiSePreferMMSDiffRatherThanSameCountry="1" paiSeRankThreshold="1D" paiStandardNX1Factor="0.5"/>
         <DPParameterSet displayClCol="true" displayCoCol="true" displayIndGamesInMatches="true" displayNPPlayers="false" displayNumCol="true" displayPlCol="true" gameFormat="full" playerSortType="name" showByePlayer="true" showNotFinallyRegisteredPlayers="true" showNotPairedPlayers="true" showNotParticipatingPlayers="false" showPlayerClub="true" showPlayerCountry="false" showPlayerGrade="true"/>
         <PublishParameterSet exportToLocalFile="true" htmlAutoScroll="false" print="true"/>
     </TournamentParameterSet>
