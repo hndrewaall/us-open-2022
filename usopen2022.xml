@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Tournament externalIPAddress="134.238.185.61" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220801153350">
+<Tournament externalIPAddress="134.238.185.61" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220801154045">
 <Players>
 <Player agaExpirationDate="" agaId="25840" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Collin" grade="7K" name="Baker" participating="11111111111111111111" rank="7K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="18518" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jared" grade="2D" name="Nishikawa" participating="11111111111111111111" rank="2D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
@@ -239,6 +239,7 @@
 <Player agaExpirationDate="" agaId="25874" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Max" grade="15K" name="Sun" participating="11111111111111111111" rank="15K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="2429" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="George" grade="9K" name="Schmitten" participating="11111111111111111111" rank="9K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="25518" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Kevin" grade="3D" name="Xu" participating="11111111111111111111" rank="3D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
+<Player agaExpirationDate="3/25/2023" agaId="9059" club="" country="US" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Yun-Bo" grade="5D" name="Yi" participating="01111111111111111111" rank="5D" rating="2506" ratingOrigin="AGA : 5.56" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="24128" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Angel" grade="2K" name="Zhou" participating="11111111111111111111" rank="2K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="8822" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Laurie" grade="14K" name="Ensworth" participating="11111111111111111111" rank="14K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 </Players>
