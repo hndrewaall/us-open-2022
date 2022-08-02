@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Tournament externalIPAddress="134.238.185.6" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220802132540">
+<Tournament externalIPAddress="134.238.185.6" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220802133537">
 <Players>
 <Player agaExpirationDate="" agaId="25840" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Collin" grade="7K" name="Baker" participating="11111111111111111111" rank="7K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="18518" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jared" grade="2D" name="Nishikawa" participating="11111111111111111111" rank="2D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
@@ -466,7 +466,7 @@
 <Game blackPlayer="SONGFOREST" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="7" whitePlayer="HUANGKEVIN"/>
 <Game blackPlayer="GAMEJAKE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="8" whitePlayer="ZHANGTIANYUAN"/>
 <Game blackPlayer="MORRISTREVOR" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="9" whitePlayer="CHODAVID"/>
-<Game blackPlayer="KENNYJOEL" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="10" whitePlayer="SUNYE"/>
+<Game blackPlayer="KENNYJOEL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="10" whitePlayer="SUNYE"/>
 <Game blackPlayer="LOUJAMES" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="11" whitePlayer="QIANYINGZHI"/>
 <Game blackPlayer="LOCKHARTWILL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="12" whitePlayer="LUXINQUN"/>
 <Game blackPlayer="SMITHRYAN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="13" whitePlayer="KIMSUNGSOO"/>
