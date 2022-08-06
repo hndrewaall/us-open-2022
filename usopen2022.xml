@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Tournament externalIPAddress="104.37.12.82" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220806002308">
+<Tournament externalIPAddress="104.37.12.82" fullVersionNumber="3.52.03" privateTournament="false" remoteUUID="1910df0f-a8a3-4e87-81ab-51148848e19f" runningMode="SAL" saveDT="20220806005419">
 <Players>
 <Player agaExpirationDate="" agaId="25840" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Collin" grade="7K" name="Baker" participating="11111111111111111111" rank="7K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="18518" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Jared" grade="2D" name="Nishikawa" participating="11111111111111111111" rank="2D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
@@ -49,7 +49,7 @@
 <Player agaExpirationDate="" agaId="24788" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Juanshu" grade="4D" name="Lan" participating="11111111111111111111" rank="4D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="20172" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Tianyi" grade="3D" name="Li" participating="11111111111111111111" rank="3D" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="25796" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Nytha" grade="9K" name="Ramanathan" participating="11111111111111111111" rank="9K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
-<Player agaExpirationDate="" agaId="25776" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Nanjia" grade="9K" name="Jiang" participating="11111111111111111111" rank="9K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
+<Player agaExpirationDate="" agaId="25776" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Nanjia" grade="9K" name="Jiang" participating="11110000000000000000" rank="9K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="14460" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Aldric" grade="8K" name="Giacomoni" participating="11111111111111111111" rank="8K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="2151" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Wanda" grade="5K" name="Metcalf" participating="11111111111111111111" rank="5K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
 <Player agaExpirationDate="" agaId="26003" club="" country="" egfPin="" ffgLicence="" ffgLicenceStatus="" firstName="Elaina" grade="11K" name="Bouch" participating="11111111111111111111" rank="11K" rating="-900" ratingOrigin="" registeringStatus="FIN" smmsCorrection="0" userName=""/>
@@ -276,22 +276,22 @@
 <Game blackPlayer="BENGTSONMATTHEW" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="30" whitePlayer="ZHOUANDY"/>
 <Game blackPlayer="HLAVKAJIM" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="54" whitePlayer="KURZSTEFFEN"/>
 <Game blackPlayer="BLANDYVIVIENNE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="78" whitePlayer="ZHANGJACK"/>
-<Game blackPlayer="CHAPMANJOEL" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="102" whitePlayer="SCHURTERTERRI"/>
+<Game blackPlayer="BRIDGMANANDREW" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="102" whitePlayer="SCHURTERTERRI"/>
 <Game blackPlayer="QIANYINGZHI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="7" whitePlayer="SATOKOSUKE"/>
 <Game blackPlayer="TANGAL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="31" whitePlayer="HEYUKI"/>
 <Game blackPlayer="ZHOUANGEL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="55" whitePlayer="GUNDBERGJR.WILLIAM"/>
 <Game blackPlayer="TIDWELLHUNTER" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="79" whitePlayer="WOODRINGURSA"/>
-<Game blackPlayer="JIANGNANJIA" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="103" whitePlayer="CACELADAVE"/>
+<Game blackPlayer="CHAPMANJOEL" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="103" whitePlayer="CACELADAVE"/>
 <Game blackPlayer="LOCKHARTWILL" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="8" whitePlayer="SIIVOLAMATTI"/>
 <Game blackPlayer="SOOSAMANTHA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="32" whitePlayer="PALACIOSVELALUISJORGE"/>
 <Game blackPlayer="BACKUSERIC" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="56" whitePlayer="SMIRNOVAVALERIIA"/>
 <Game blackPlayer="BARANDAVID" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="80" whitePlayer="BOERNERMAYA"/>
-<Game blackPlayer="BRIDGMANANDREW" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="104" whitePlayer="CARRAFANOAH"/>
+<Game blackPlayer="KARNSDON" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="104" whitePlayer="CARRAFANOAH"/>
 <Game blackPlayer="KIMSUNGSOO" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="9" whitePlayer="SONGFOREST"/>
 <Game blackPlayer="SUJIAYANG" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="33" whitePlayer="NISHIKAWAJARED"/>
 <Game blackPlayer="PETERSONMAX" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="57" whitePlayer="HAGENJORDAN"/>
 <Game blackPlayer="GIACOMONIALDRIC" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="81" whitePlayer="BOERNERANDREAS"/>
-<Game blackPlayer="KARNSDON" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="105" whitePlayer="LIMARIA"/>
+<Game blackPlayer="SUNWYNSTON" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="105" whitePlayer="LIMARIA"/>
 <Game blackPlayer="SUNYE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="10" whitePlayer="KIMCHRISTOPHER"/>
 <Game blackPlayer="LIJASON" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="34" whitePlayer="TANSTEPHANIE"/>
 <Game blackPlayer="ROBINSONAUSTIN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="58" whitePlayer="LEEYUNYEN"/>
@@ -306,22 +306,22 @@
 <Game blackPlayer="WONGMARK" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="36" whitePlayer="KIMTAEWON"/>
 <Game blackPlayer="HUANGRYAN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="60" whitePlayer="CHENJONATHAN"/>
 <Game blackPlayer="CHENSKYE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="84" whitePlayer="TANGDELLA"/>
-<Game blackPlayer="SUNWYNSTON" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="108" whitePlayer="ENSWORTHLAURIE"/>
+<Game blackPlayer="ALEGRIARENATO" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="108" whitePlayer="ZHANGSIMON"/>
 <Game blackPlayer="LUXINQUN" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="13" whitePlayer="MORRISTREVOR"/>
 <Game blackPlayer="GUARINOJOSHUA" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="37" whitePlayer="ZHANGHENRY"/>
 <Game blackPlayer="BELYEULUKE" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="61" whitePlayer="MARKSENRAGNARR"/>
 <Game blackPlayer="MAHONEYDENNIS" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="85" whitePlayer="BAKERCOLLIN"/>
-<Game blackPlayer="HESSBURGLAWRENCE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="109" whitePlayer="ZHANGSIMON"/>
+<Game blackPlayer="ENSWORTHLAURIE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="109" whitePlayer="HESSBURGLAWRENCE"/>
 <Game blackPlayer="LOUJAMES" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="14" whitePlayer="RAYSHAWN"/>
 <Game blackPlayer="YANGERIC" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="38" whitePlayer="CAOROXIN"/>
 <Game blackPlayer="JACOBBART" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="62" whitePlayer="BHATTARAISHREYA"/>
 <Game blackPlayer="ESPINOZAMARIO" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="86" whitePlayer="KOPPSTEVE"/>
-<Game blackPlayer="WANGXIAOTIAO" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="110" whitePlayer="ALEGRIARENATO"/>
+<Game blackPlayer="WANGXIAOTIAO" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="110" whitePlayer="HLAVKACHRIS"/>
 <Game blackPlayer="LIDIZHI" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="15" whitePlayer="SMITHRYAN"/>
 <Game blackPlayer="UHLSTEVE" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="39" whitePlayer="BRITTASHA"/>
 <Game blackPlayer="KWANJULIAN" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="63" whitePlayer="RANDJEROMIE"/>
 <Game blackPlayer="HOLDENWILLIAMF." handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="87" whitePlayer="SCHMITTENGEORGE"/>
-<Game blackPlayer="HUANGKYLE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="111" whitePlayer="HLAVKACHRIS"/>
+<Game blackPlayer="HUANGKYLE" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="111" whitePlayer="MAYUNZHANG"/>
 <Game blackPlayer="LANJUANSHU" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="1" tableNumber="16" whitePlayer="STRINGFELLOWSTEVEC."/>
 <Game blackPlayer="WRIGHTNEAL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="2" tableNumber="40" whitePlayer="STRAUSPHIL"/>
 <Game blackPlayer="VENTURAGIOVANNI" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="64" whitePlayer="KARAFELISWILLIAM"/>
@@ -331,7 +331,7 @@
 <Game blackPlayer="XIEVICTORIA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="41" whitePlayer="LIUYIYANG"/>
 <Game blackPlayer="SMAYA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="3" tableNumber="65" whitePlayer="HOGANJOHNM."/>
 <Game blackPlayer="MENDOLAPAUL" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="4" tableNumber="89" whitePlayer="FRASERMARK"/>
-<Game blackPlayer="FUNGHAYDEN" handicap="1" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="113" whitePlayer="MAYUNZHANG"/>
+<Game blackPlayer="BENGTSONNATHAN" handicap="6" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="113" whitePlayer="FUNGHAYDEN"/>
 <Game blackPlayer="NGUYENANH" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="1" tableNumber="18" whitePlayer="LIUYUJIE"/>
 <Game blackPlayer="LINAARON" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="2" tableNumber="42" whitePlayer="FULLERMAX"/>
 <Game blackPlayer="CRITESBOB" handicap="0" knownColor="true" result="RESULT_BLACKWINS" roundNumber="3" tableNumber="66" whitePlayer="AODU"/>
@@ -832,9 +832,6 @@
 <Game blackPlayer="SMAYA" handicap="0" knownColor="true" result="RESULT_WHITEWINS" roundNumber="4" tableNumber="72" whitePlayer="YESDANIEL"/>
 <Game blackPlayer="YANBOWEN" handicap="0" knownColor="true" result="RESULT_UNKNOWN" roundNumber="5" tableNumber="96" whitePlayer="UEHLEINKYLE"/>
 </Games>
-<ByePlayers>
-<ByePlayer player="BENGTSONNATHAN" roundNumber="5"/>
-</ByePlayers>
 <TournamentParameterSet>
 <GeneralParameterSet bInternetGame="false" basicTime="0" beginDate="2022-08-01" canByoYomiTime="300" complementaryTimeSystem="SUDDENDEATH" director="Andrew Hall &amp; Neil Ritter" endDate="2022-08-06" fischerTime="10" genCountNotPlayedGamesAsHalfPoint="false" genMMBar="9D" genMMFloor="30K" genMMS2ValueAbsent="1" genMMS2ValueBye="2" genMMZero="30K" genNBW2ValueAbsent="0" genNBW2ValueBye="2" genRoundDownNBWMMS="true" komi="7.5" location="Estes Park, CO, USA" name="US Open 2022" nbMovesCanTime="15" numberOfBZHGroups="1" numberOfCategories="1" numberOfRounds="5" shortName="usopen2022" size="19" stdByoYomiTime="30"/>
 <HandicapParameterSet hdBase="MMS" hdCeiling="9" hdCorrection="1" hdNoHdRankThreshold="9D"/>
